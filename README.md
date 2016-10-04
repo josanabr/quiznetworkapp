@@ -4,7 +4,10 @@ Este quiz asume que el estudiante tiene unos conocimientos basicos de programaci
 ## Preliminares
 **Antes de comenzar a hacer el quiz debe hacer lo que se describe a continuacion**
 
-Usted debera entrar al siguiente [formulario](https://goo.gl/forms/Mqjq9ryqDX4KNt4u1) y digitar alli su **codigo de estudiante** y el **numero IP de la maquina** desde donde esta corriendo el quiz. Para ver como obtener el IP de su maquina por favor visitar este [video](https://asciinema.org/a/0mv94mnarx6wqljoq3yvxklxy).
+Usted debera entrar al siguiente <a href="https://goo.gl/forms/Mqjq9ryqDX4KNt4u1" target="_blank">formulario</a> y digitar alli su **codigo de estudiante** y el **numero IP de la maquina** desde donde esta corriendo el quiz. Para ver como obtener el IP de su maquina por favor visitar este [video](https://asciinema.org/a/0mv94mnarx6wqljoq3yvxklxy).
+
+Una vez hecho esto y haber diligenciado las tres primeras preguntas del formulario correspondientes a codigo de estudiante, nombre e IP; ahora si proseguir con las siguientes preguntas.
+
 ## Preguntas
 ### Pregunta 1
 Dado el siguiente codigo, escriba un programa que envie la palabra "HolA"
