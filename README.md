@@ -17,7 +17,7 @@ Dado el siguiente codigo, escriba un programa que envie la palabra "HolA"
 from socket import *
 # Llene las siguientes lineas de modo que s sea un socket del tipo TCP
 s = socket( , )
-# Se debe conectar a la maquina con IP 172.17.9.51 y puerto 9001
+# Se debe conectar a la maquina con IP 172.17.9.50 y puerto 9001
 s.connect( )
 # Se envia la cadena "HolA"
 s.send("HolA")
@@ -35,7 +35,7 @@ Dado el siguiente codigo, escriba una aplicacion como se describe en el siguient
 ~~~~
 #!/usr/bin/env python
 from socket import *
-# 1- Cree una conexion TCP al servidor cuyo IP es 172.17.9.51 y puerto 9002
+# 1- Cree una conexion TCP al servidor cuyo IP es 172.17.9.50 y puerto 9002
 # 2- Usted abrira una conexion y recibira dos cadenas de caracteres, en mensajes
 #    separados (es decir dos llamados a la funcion socket.recv()). 
 #    Cada cadena representa un numero entero. Es seguro que el tamano a recibir #    sea maximo 10 caracteres
@@ -63,7 +63,7 @@ msg = "HolA"
 # - La palabra 'funcion' sea reemplazada por el nombre de la funcion en Python
 #   que envia datos a traves de un socket UDP
 # - El segundo argumento de la funcion de envio de los datos sean los datos
-#   correspondientes al servidor cuyo IP es 172.17.9.51 numero de puerto 9001
+#   correspondientes al servidor cuyo IP es 172.17.9.50 numero de puerto 9001
 s.funcion( , )
 # Ahora reciba los datos del servidor. Cambie la palabra 'funcion1' por el 
 # nombre de la funcion que se usa para recibir datos a traves de un socket UDP
